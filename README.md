@@ -1,3 +1,4 @@
 # Data-Visualization-with-R
-All HandsOn Lab Excercises of Week1,2 &amp; 3
-Bar Chart, Histogram Chart & Pie Chart(Stacked Chart)
+All HandsOn Lab Excercises of Week1,2 & 3
+Lab-1 Bar Chart, Histogram Chart & Pie Chart(Stacked Chart)
+Lab-2 Scatter Plots, Line Plots, (Simple Line Plots,Multiple Line Plots) & Box Plots
